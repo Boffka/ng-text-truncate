@@ -1,0 +1,19 @@
+{
+  "name": "ng-text-truncate",
+  "version": "1.0.0",
+  "description": "This is a simple, but fully functional, directive for truncating text in angularjs apps",
+  "main": "ng-text-truncate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boffka/ng-text-truncate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Boffka/ng-text-truncate/issues"
+  },
+  "homepage": "https://github.com/Boffka/ng-text-truncate#readme"
+}
